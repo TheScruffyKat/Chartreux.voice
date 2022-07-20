@@ -1,5 +1,7 @@
 ![logo](https://github.com/TheScruffyKat/Chartreux.voice/blob/main/github/ChartreuxVoice.png?raw=true)
 
+> Still in development but early tests are available to download
+
 Free And Easy Voicechat For Mirror
 
 Tested on KCP transport and planned to be tested with Epic Online Services (EOS)
